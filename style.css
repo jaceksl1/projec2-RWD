@@ -26,7 +26,7 @@ body {
 }
 
 .section1 {
-  background-image: url(/pictures/background1.jpg);
+  background-image: url(pictures/background1.jpg);
   background-size: 60% 100%;
   background-repeat: no-repeat;
   background-position: 100% 80%;
@@ -426,7 +426,7 @@ body {
       background-size: 45% 70%;
     }
     .s2box-item {
-      background-image: url(/pictures/background2.jpg);
+      background-image: url(pictures/background2.jpg);
       background-size: 45% 70%;
       background-repeat: no-repeat;
       background-position: left;
